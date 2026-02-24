@@ -1,3 +1,5 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=parkote9212&style=flat&color=blue&label=Profile+Views)
+
 # Hi there 👋 I'm G.C. Park
 
 > 건설 QC 8년 경력을 바탕으로 웹 개발로 전환한 백엔드 개발자입니다.  
