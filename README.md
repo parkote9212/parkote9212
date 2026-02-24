@@ -77,6 +77,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=parkote9212&theme=dark&hide_border=true&date_format=Y.m.d)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parkote9212&theme=github_dark&exclude=)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parkote9212&theme=github_dark)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parkote9212&theme=github-dark&hide_border=true&area=true)
 
 ---
