@@ -1,7 +1,7 @@
 # Hi there 👋 I'm G.C. Park
 
-> 건설 QC,안전 8년 경력을 바탕으로 웹 개발로 전환한 백엔드 개발자입니다.  
-> 품질/안전 관리에서 길러온 꼼꼼함과 문제 해결 능력을 코드에 녹여냅니다.
+> 건설 QC 8년 경력을 바탕으로 웹 개발로 전환한 백엔드 개발자입니다.  
+> 품질 관리에서 길러온 꼼꼼함과 문제 해결 능력을 코드에 녹여냅니다.
 
 ---
 
@@ -75,8 +75,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parkote9212&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parkote9212&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=parkote9212&theme=dark&hide_border=true&date_format=Y.m.d)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parkote9212&theme=github-dark&hide_border=true&area=true)
 
 ---
 
